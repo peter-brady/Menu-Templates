@@ -1,0 +1,9 @@
+name = Menu Templates
+description = Allows menus to be rendered via template files.
+core = 7.x
+package = Other
+php = 5.2.4
+version = 7.x-0.01
+dependencies[] = bean
+dependencies[] = block
+dependencies[] = menu
