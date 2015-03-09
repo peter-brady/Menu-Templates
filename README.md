@@ -8,6 +8,8 @@ For the purists out there, you could instead use this module.
 
 The Menu Templates for Drupal module allows developers to render Drupal menus via a template file - **menu-template--[menu-template-block-name].tpl.php** - in the default theme.
 
+![menu-templates-1](https://cloud.githubusercontent.com/assets/2240510/6551685/7984724a-c634-11e4-9f55-18d869633a0c.png)
+
 You can also create multiple template files for the same menu. This can be used to render the same menu to be through a different **menu-template--[menu-template-block-name].tpl.php** file in different sections on your site.
 
 Switching these menu's could be achieved using the **core Drupal blocks UI**, or the [Context](https://www.drupal.org/project/context) contrib module**, for example.
